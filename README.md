@@ -28,7 +28,7 @@ This task:
 - Background: Intensity 60  
 - Noise: Gaussian with `stddev=40`
 
-### 📷 Example Output:
+### Example Output:
 - Original image  
 - Noisy image  
 - Thresholded (binary) image using Otsu's method
